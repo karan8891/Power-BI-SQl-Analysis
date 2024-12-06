@@ -1,5 +1,5 @@
 # Power-BI-SQl-Analysis
-A demo project to get hands on experience with SQL management studio and Power BI
+A sel designed project to get hands on experience with SQL management studio and Power BI
 
 
 Sales Report for last two years
